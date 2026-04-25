@@ -46,10 +46,3 @@ streamlit run stock_explorer.py
 3. Connect your GitHub repo
 4. Set main file as `stock_explorer.py`
 5. Click Deploy — live URL in ~2 minutes
-
-## Author
-
-Muhammad Fawad · [LinkedIn](https://www.linkedin.com/in/muhammadfawad-4730a4294)
-=======
-# Stock-price-Explorer
->>>>>>> cca446ad3178549b4363fa01e92b242efb908c86
